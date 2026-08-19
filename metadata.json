@@ -1,0 +1,6 @@
+{
+  "name": "ShopInventory POS",
+  "description": "Smart inventory, multi-branch tracking, and retail point-of-sale billing system with Google Drive database sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
